@@ -1,5 +1,5 @@
 {
-    "name": "ɴɪᴅʜɪ ダ ᴍᴜsɪᴄ",
+    "name": "🔥❱‌𝐁𝐀𝐃𝐍𝐀𝐌❱ड𝗮𝗸u•𓆩💌[🇮🇳]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
     "keywords": [
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5593177314","5808245368"
+        "value": "5593177314",
         "required": true
       },
       "STRING_SESSION": {
